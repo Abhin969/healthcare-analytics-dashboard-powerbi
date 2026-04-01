@@ -5,12 +5,12 @@ This project presents an interactive Power BI dashboard designed to analyze heal
 
 🎯 Key Features
 
-Patient demographics analysis
-Hospital performance tracking
-Doctor performance insights
-Insurance provider distribution
-Billing analysis
-Interactive slicers and filters
+- Patient demographics analysis
+- Hospital performance tracking
+- Doctor performance insights
+- Insurance provider distribution
+- Billing analysis
+- Interactive slicers and filters
 
 📂 Dataset Includes
 
